@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "451669329476",
+    "project_id": "testchatbotalimipfa",
+    "storage_bucket": "testchatbotalimipfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451669329476:android:ca7790426429efdc975e11",
+        "android_client_info": {
+          "package_name": "com.example.care_companion_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOwt9YWlwUeuKtu53nAmsbgkRAmLjnbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451669329476:android:c4bdbb98dc6b62a0975e11",
+        "android_client_info": {
+          "package_name": "com.example.cognitive_therapy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOwt9YWlwUeuKtu53nAmsbgkRAmLjnbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451669329476:android:ccc17c6b86cbe27c975e11",
+        "android_client_info": {
+          "package_name": "com.example.wellbeing_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOwt9YWlwUeuKtu53nAmsbgkRAmLjnbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451669329476:android:5e7e51c9836ccecb975e11",
+        "android_client_info": {
+          "package_name": "com.example.wellbeing_guide_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOwt9YWlwUeuKtu53nAmsbgkRAmLjnbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
